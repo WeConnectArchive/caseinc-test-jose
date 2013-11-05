@@ -1,0 +1,15 @@
+"Como" administración de case (David, Federico, Joanna)
+"Quiero" conectar tableau a una BD (Mysql instalado en la oficina)
+"De tal forma que" pueda visualizar los datos de 
+ teamworkpm con los datos de otros sistemas 
+ sin pedir los archivos manualmente a alguien
+ (Conección a teamworkpm)
+
+Criterio de Aceptación:
+ - Dump de teamwork
+ - Permisos asociados teamwork
+Criterio de Listo:
+ - Entrar a la base de datos y ver tablas que representan 
+ las vistas en TMWP con los datos de los proyectos
+ - Script se corre manual (no necesito frontend)
+ - Sobreescribimos los datos
